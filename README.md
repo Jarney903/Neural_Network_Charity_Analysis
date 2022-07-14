@@ -26,16 +26,16 @@ How many neurons, layers, and activation functions did you select for your neura
 - Output Layer #3: sigmoid
 Were you able to achieve the target model performance?
 - No, I achieved 57% accuracy
-![1](https://github.com/Jarney903/CNeural_Network_Charity_Analysis/blob/main/analysis/Fig_1.jpg)
+![1](https://github.com/Jarney903/Neural_Network_Charity_Analysis/blob/main/analysis/Fig_1.jpg)
 What steps did you take to try and increase model performance?
 - Step #1: Dropped "USE_CASE" column 
 - Step #2: Increased Hidden Layers to 3 and Nodes to 100, 80, and 70 respectivley 
 - Step #3: Changed output layer to relu
-![2](https://github.com/Jarney903/CNeural_Network_Charity_Analysis/blob/main/analysis/Fig_2.jpg)
+![2](https://github.com/Jarney903/Neural_Network_Charity_Analysis/blob/main/analysis/Fig_2.jpg)
 
 
 ## Analysis Summary
 Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
 - The overall results for the 3 optimizations attempts were ultimately unsuccessful. The accuracy decreased from 57% to 53%. I would attempt to use other supervised methods such as Support Vector Machines or Random Forest to try solving this problem, as these my be better at not linear grouping. 
-![2](https://github.com/Jarney903/CNeural_Network_Charity_Analysis/blob/main/analysis/Fig_3.jpg)
+![2](https://github.com/Jarney903/Neural_Network_Charity_Analysis/blob/main/analysis/Fig_3.jpg)
 
